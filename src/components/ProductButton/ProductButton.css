@@ -1,0 +1,13 @@
+.ProductButton {
+
+    border-radius: 10px;
+    font-size: 1.2rem;
+    padding: 0.8rem;
+    cursor: pointer;
+    transition: all 0.3s;
+    align-items: center;
+}
+
+.ProductButton:hover {
+    color: gray;
+}
